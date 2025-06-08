@@ -1,1 +1,3 @@
 foo: "NGUYỄN QUÂN đây"
+test:
+    item: ${TEST_ITEM:Helllo World}
